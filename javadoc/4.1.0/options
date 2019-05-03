@@ -1,0 +1,30 @@
+-classpath
+'/disks/data/install/maven-repo/uk/co/caprica/vlcj-natives/4.1.0/vlcj-natives-4.1.0.jar:/disks/data/install/maven-repo/net/java/dev/jna/jna/5.2.0/jna-5.2.0.jar:/disks/data/install/maven-repo/uk/co/caprica/vlcj-osx-stubs/1.0.0/vlcj-osx-stubs-1.0.0.jar:/disks/data/install/maven-repo/net/java/dev/jna/jna-platform/5.2.0/jna-platform-5.2.0.jar'
+-encoding
+'UTF-8'
+-overview
+'/disks/store/workspaces/vlcj/vlcj/src/main/javadoc/overview.html'
+-public
+-quiet
+-sourcepath
+'/disks/store/workspaces/vlcj/vlcj/src/main/java:/disks/store/workspaces/vlcj/vlcj/target/generated-sources/annotations:/disks/store/workspaces/vlcj/vlcj/src/main/javadoc'
+-author
+-bottom
+'Copyright &#169; 2009&#x2013;2019 <a href="http://www.capricasoftware.co.uk">Caprica Software Limited</a>. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/disks/store/workspaces/vlcj/vlcj/target/apidocs'
+-docencoding
+'UTF-8'
+-docfilessubdirs
+-doctitle
+'vlcj 4.1.0 API Documentation'
+-footer
+'(C)2019 Caprica Software Limited'
+-linkoffline
+'https://docs.oracle.com/javase/6/docs/api' '/disks/store/workspaces/vlcj/vlcj/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'vlcj 4.1.0 API'
