@@ -242,6 +242,7 @@ public class MediaPlayerFactory {
      */
     private static String getJavaVersion() {
         String result = System.getProperty("java.version");
+        result = result.replace("-jpackage", "");
         if (!result.contains(".")) {
             // I know, it's not great, but change e.g. "10" to "10.0.0"
             result += ".0.0";
